@@ -11,8 +11,8 @@ description: From very small to very large the patterns repeat
 github_username: RichGibson
 
 # Email and twitter are optional:
-email:Rich.Gibson@gmail.com
-twitter_username:RichGibson
+email: Rich.Gibson@gmail.com
+twitter_username: RichGibson
 
 # Set this to true to get LaTeX math equation support
 use_math:
