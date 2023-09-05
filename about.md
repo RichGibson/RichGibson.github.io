@@ -19,7 +19,9 @@ Some ways I've described myself, or been described for [various publications and
 - Longson, Jay, Cooper, Gene, Gibson, Rich, Gibson, Molly, Rawlins, John Edward, Sargent, Randy (2010). <u>Adapting Traditional Macro and Micro Photography for Scientific Gigapixel Imaging</u>. Carnegie Mellon University Research Showcase. [link to full text](https://kilthub.cmu.edu/articles/journal_contribution/Adapting_Traditional_Macro_and_Micro_Photography_for_Scientific_Gigapixel_Imaging/6709385)
 
 - Gibson, Rich, & Erle, Schulyer (2006). <u>Google Map hacks: tips and tools for geographic searching and remixing</u>. O'Reilly
+
 - Flickenger, Rob, & Weeks, Rober (2nd edition 2006). <u>Wireless Hacks: tips and tools for Building, Extending, and Securing Your Network</u>. O'Reilly (contributed three hacks)
+
 - Gibson, Rich,  Erle, Schulyer, & Walsh, Jo (2005). <u>Mapping Hacks:  Tips and Tools for Electronic Cartography</u>. O'Reilly
 
 
