@@ -41,4 +41,13 @@ His current fascination is creating tools to aid in the acquistion, management, 
 
 He is active with the NoCat Community Network in Sebastopol, California. In his free time he dives for Abalone and Halibut and tries to keep up with his wife and three explosively active kids.
 
+## Google Maps Hacks blurb
 
+Rich Gibson is a Perl/Database programmer in Santa Rosa CA. He has worked 
+professionally with computers since 1982 when he created Public Utility 
+Rate Case Models in SuperCalc on an Osborne II. His current fascination 
+is creating tools to aid in the acquisition, management, and presentation 
+of information with a geographic component. He is currently converting an 
+old golf cart into a mobile geo annotation platform.Rich is active with 
+the NoCat Community Network in Sebastopol, California, and is the primary 
+developer of NoCat Maps (http: //maps.nocat.net/).
