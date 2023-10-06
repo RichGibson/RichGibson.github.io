@@ -1,3 +1,4 @@
-# Resume?
+# Resume
 
-Does this appear anywhere?
+- [Current Resume](RichResume_092223.html)
+
