@@ -16,6 +16,8 @@ Some ways I've described myself, or been described for [various publications and
 
 ## Publications
 
+- Gibson, Rich <u>Hello DrinkBot!</u> Make Magazine May 18th, 2020 [link to article](https://makezine.com/projects/hello-drinkbot/)
+
 - Longson, Jay, Cooper, Gene, Gibson, Rich, Gibson, Molly, Rawlins, John Edward, Sargent, Randy (2010). <u>Adapting Traditional Macro and Micro Photography for Scientific Gigapixel Imaging</u>. Carnegie Mellon University Research Showcase. [link to full text](https://kilthub.cmu.edu/articles/journal_contribution/Adapting_Traditional_Macro_and_Micro_Photography_for_Scientific_Gigapixel_Imaging/6709385)
 
 - Gibson, Rich, & Erle, Schulyer (2006). <u>Google Map hacks: tips and tools for geographic searching and remixing</u>. O'Reilly
@@ -26,6 +28,8 @@ Some ways I've described myself, or been described for [various publications and
 
 
 ## Talks/Conferences
+
+- <u>Hello Drinkbot! Workshop - Make a cocktail or Italian soda dispensing robot</u> Maker Faire San Mateo 2019
 
 - <u>State of the Map US 2013: Street Name Fight</u> Rich Gibson and Sophia Parafina. 
 
@@ -47,8 +51,4 @@ Some ways I've described myself, or been described for [various publications and
 - <u>Gigapan Gigapixel Imaging by Rich Gibson, Molly Gibson, Miriam Goldberg, and Mary Jo Knelly</u> [SIGGRAPH Studio 2010](http://s2010.siggraph.org/for_attendees/studio.html) 
 
 
-<p style="text-align": center;">
-<a href="mailto:rich.gibson@gmail.com">Rich.Gibson@gmail.com</a><br>
-<a href="https://www.linkedin.com/in/richgibson2/">LinkedIn</a>
-</p>
 

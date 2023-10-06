@@ -1,4 +1,4 @@
-# About me - we all contain multitudes
+# Publications, talks, links
 
 It is interesting to see how we describes ourselves, or are described by others, in such
 a simple format as the conference or publication 'about the author/speaker' blurb.
@@ -19,6 +19,10 @@ I have content at scaleindependent.com Will open in a new tab or window, twitter
 
 Please email if you want, rich.gibson@gmail.com)
 
+
+## [Hello Drinkbot! Workshop - Make a cocktail or Italian soda dispensing robot](https://makerfaire.com/maker/entry/70121/) Maker Faire San Mateo, 2019 
+
+Rich works at OpenFiber on mapping and databases. He worked on the Gigapan and Explorable Microscopy projects for Carnegie Melon University and NASA's Intelligent Robotics group, and coauthored Mapping Hacks and Google Maps Hacks for O'Reilly.
 
 ## [Rich Gibson inverviewed at OSCON 2011](https://www.youtube.com/watch?v=KUmxNGfXP7U)
 
